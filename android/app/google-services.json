@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "321176419355",
+    "firebase_url": "https://gsignin-cc319.firebaseio.com",
+    "project_id": "gsignin-cc319",
+    "storage_bucket": "gsignin-cc319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321176419355:android:5715218d15ba05bd6c4cbe",
+        "android_client_info": {
+          "package_name": "com.poc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321176419355-5pd81ehsusp6p7p6pdk11p3m25j6qr0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.poc",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "321176419355-inshja24sp7h7l63qvi24gdjuhem30vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWWfqm8jQ7MA9oDPxvD2nJ10UkJaIDzQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321176419355-inshja24sp7h7l63qvi24gdjuhem30vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
